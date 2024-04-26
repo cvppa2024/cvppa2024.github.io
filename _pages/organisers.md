@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Organisers
 permalink: /organisers/
 sidebar:
     nav: "sidebar"

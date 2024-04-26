@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Speakers
 permalink: /speakers/
 sidebar:
     nav: "sidebar"

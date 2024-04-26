@@ -18,7 +18,7 @@ Specific topics of interest include, but are not limited to, the following:
 * advances in segmentation, tracking, detection, reconstruction and identification methods that address unsolved plant phenotyping and agricultural scenarios;
 * open source implementations, comparison and discussion of existing methods and annotation tools;
 * image data sets defining plant phenotyping or agricultural tasks, complete with annotations if appropriate, accompanied with benchmark methods if possible, and suitable evaluation methods; and
-* challenge contributions - click here for more information regarding the challenges
+* challenge contributions - [click here](/challenges/) for more information regarding the challenges
 
 Submission will be done on CMT - more information will follow.
 
