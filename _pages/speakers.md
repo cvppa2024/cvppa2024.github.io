@@ -4,7 +4,6 @@ permalink: /speakers/
 sidebar:
     nav: "sidebar"
 ---
-# Speakers
 
 The following speakers have been confirmed to give a keynote presentation at CVPPA 2024. More information on their talk will be provided later.
 
