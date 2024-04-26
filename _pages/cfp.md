@@ -5,8 +5,6 @@ sidebar:
     nav: "sidebar"
 ---
 
-# Call for Papers
-
 CVPPA aims to advance computer vision for plant and crop applications. Plant phenotyping is the identification of effects on plant structure and function (the phenotype) resulting from genotypic differences (i.e., differences in the genetic code) and the environmental conditions a plant has been exposed to. Knowledge of plant phenotypes is a key ingredient of the knowledge-based bioeconomy, which not only literally helps to feed the world, but is also essential for feed, fibre and fuel production.
 
 Computer vision in agriculture problems tend to revolve around automation problems, such as automated detection of plant organs for automated weeding or harvest. The images are acquired in a variety of contexts: forests, fields, greenhouses or controlled environments, packing houses, etc.

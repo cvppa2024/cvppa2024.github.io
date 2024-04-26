@@ -5,12 +5,9 @@ sidebar:
     nav: "sidebar"
 ---
 
-# Challenges
-
 This year, we are running the following challenges:
-- [Challenges](#challenges)
-  - [Shape Completion and Reconstruction of Sweet Peppers Challenge](#shape-completion-and-reconstruction-of-sweet-peppers-challenge)
-  - [Multi-object Tracking of Sweet Peppers Challenge](#multi-object-tracking-of-sweet-peppers-challenge)
+- [Shape Completion and Reconstruction of Sweet Peppers Challenge](#shape-completion-and-reconstruction-of-sweet-peppers-challenge)
+- [Multi-object Tracking of Sweet Peppers Challenge](#multi-object-tracking-of-sweet-peppers-challenge)
 
 
 During the workshop, we will announce the winners and plan to award a certificate for winning entries that provide a short description of their technical approach by submitting a [short technical report](http://localhost:4000/cfp/#challenge-technical-report).
