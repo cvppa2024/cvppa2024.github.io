@@ -11,7 +11,7 @@ source "https://rubygems.org"
 ruby "3.0.2"
 gem "jekyll", "~> 3.9.0"
 gem "webrick" 
-gem "github-pages"
+gem "github-pages", group: :jekyll_plugins
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
