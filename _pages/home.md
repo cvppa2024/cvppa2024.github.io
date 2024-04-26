@@ -1,0 +1,28 @@
+---
+layout: single
+permalink: /
+hidden: true
+author_profile: true
+---
+
+This workshop will showcase the challenges raised by working on computer vision for plant phenotyping and agriculture. Workshop goals include demonstrating the state-of-the-art, identifying key unsolved problems, and introducing computer scientists with an interest in plant phenotyping to the field. Effective plant phenotyping is urgently needed to support the sustainability of our planet and its inhabitants: having strong community structures and computer vision scientists enter this field is more crucial now than ever.
+
+The workshop will be held at [ECCV 2024](https://eccv.ecva.net/Conferences/2024), the European Conference on Computer Vision, which runs from 29th September till 4th October 2024.
+
+The workshop will have paper tracks and challenges.
+
+More information will follow soon!
+
+
+## Previous Editions
+
+This workshop was previously known as CVPPP, Computer Vision Problems in Plant Phenotyping.
+
+- [CVPPA 2023 at ICCV](https://cvppa2023.github.io)
+- [CVPPA 2021 at ICCV](https://cvppa2021.github.io)
+- [CVPPP 2020 at ECCV](https://www.plant-phenotyping.org/CVPPP2020)
+- [CVPPP 2019 at CVPR](https://www.plant-phenotyping.org/CVPPP2019)
+- [CVPPP 2018 at BMVC](https://www.plant-phenotyping.org/CVPPP2018)
+- [CVPPP 2017 at ICCV](https://www.plant-phenotyping.org/CVPPP2017)
+- [CVPPP 2015 at BMVC](http://www.plant-phenotyping.org/CVPPP2015)
+- [CVPPP 2014 at ECCV](http://www.plant-phenotyping.org/CVPPP2014)
