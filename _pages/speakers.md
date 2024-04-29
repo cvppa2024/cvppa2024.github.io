@@ -16,6 +16,9 @@ The following speakers have been confirmed to give a keynote presentation at CVP
 
 <img src="https://dmar-bonn.com/authors/admin/avatar_hu41eb3dff5e107bd3af1391588f6359b0_178877_270x270_fill_q75_lanczos_center.jpg" class="people-img">Marija is an Assistant Professor at MAVLab at TU Delft. Her research is centred around developing algorithms to enable intelligent decision-making for autonomous robots, focusing on aerial platform. Her research group focuses on furthering autonomy for agricultural applications.
 
+<p></p>
+<p></p>
+
 ## Michael Gomez Selvaraj
 
 <img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vodap70AAAAJ&citpid=6" class="people-img">Michael leads the Phenomics platform at the Alliance of Bioversity and CIAT (Colombia) within CGIAR. He envisions a future where regenerative agriculture and data-driven innovation intersect for sustainability. He addresses farming challenges to advance food security globally, by researching in digital agriculture, remote sensing, and AI.
