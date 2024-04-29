@@ -10,7 +10,7 @@ The following speakers have been confirmed to give a keynote presentation at CVP
 
 ## Fiora Pirri&nbsp;<a href="https://deepplants.com/" target="_blank" title="Web page">🌐</a>
 
-<img src="https://lh4.googleusercontent.com/9t8rdyD7arhR9XgPT02iUnNnFLzY61_DBSlwvU4asK6x0o00khfozdA2PBQ07PL3dOBHp_QghCy4IVtOkBqJHKTPZ-YCP761C4Vw3rKdAwWDSajlEaXPM3NCs57vLphN=w1280" class="people-img"> Fiora Pirri is CEO and research director of DeepPlants (Italy), which she founded in 2021. She has been a full professor at the University of Sapienza, Rome, and head of Alcor Lab of vision, learning, and cognitive robotics, which she established in 1998. Her leadership extends to various EU-funded projects, notably NIFTI and TRADR, focusing on disaster response and human-robot teamwork. DeepPlants research is dedicated to climate change resilience showcasing her commitment to impactful innovation.
+<img src="https://lh4.googleusercontent.com/4gKLD3g_F0CrZaJ-phM7DmMai1VS28_25TcoYeOHJb58dPTHnAE1UkqZ-mJqxVnGW2-rjzHsyb5JpYtq842lOC0bEa4sNC6rCjOpMph9iyrjYNNwt_Z1fEnER5RSdlp_=w1280" class="people-img"> Fiora Pirri is CEO and research director of DeepPlants (Italy), which she founded in 2021. She has been a full professor at the University of Sapienza, Rome, and head of Alcor Lab of vision, learning, and cognitive robotics, which she established in 1998. Her leadership extends to various EU-funded projects, notably NIFTI and TRADR, focusing on disaster response and human-robot teamwork. DeepPlants research is dedicated to climate change resilience showcasing her commitment to impactful innovation.
 
 ## Masha Popović&nbsp;<a href="https://dmar-bonn.com/authors/admin/" target="_blank" title="Web page">🌐</a>
 
