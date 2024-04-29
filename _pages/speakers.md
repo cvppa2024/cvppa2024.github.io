@@ -12,9 +12,9 @@ The following speakers have been confirmed to give a keynote presentation at CVP
 
 <img src="/assets/fp.jpg" class="people-img"> Fiora Pirri is CEO and research director of DeepPlants (Italy), which she founded in 2021. She has been a full professor at the University of Sapienza, Rome, and head of Alcor Lab of vision, learning, and cognitive robotics, which she established in 1998. Her leadership extends to various EU-funded projects, notably NIFTI and TRADR, focusing on disaster response and human-robot teamwork. DeepPlants research is dedicated to climate change resilience showcasing her commitment to impactful innovation.
 
-## Masha Popović&nbsp;<a href="https://dmar-bonn.com/authors/admin/" target="_blank" title="Web page">🌐</a>
+## Marija Popović&nbsp;<a href="https://dmar-bonn.com/authors/admin/" target="_blank" title="Web page">🌐</a>
 
-<img src="https://dmar-bonn.com/authors/admin/avatar_hu41eb3dff5e107bd3af1391588f6359b0_178877_270x270_fill_q75_lanczos_center.jpg" class="people-img">Masha is a Junior Research Group Leader at the University of Bonn (Germany) and Cluster of Excellence “PhenoRob”. Her research is centred around developing algorithms to enable intelligent decision-making for autonomous robots, both aerial and ground. In her research group, they focus on furthering robot autonomy in agricultural applications.
+<img src="https://dmar-bonn.com/authors/admin/avatar_hu41eb3dff5e107bd3af1391588f6359b0_178877_270x270_fill_q75_lanczos_center.jpg" class="people-img">Marija is an Assistant Professor at MAVLab at TU Delft. Her research is centred around developing algorithms to enable intelligent decision-making for autonomous robots, focusing on aerial platform. Her research group focuses on furthering autonomy for agricultural applications.
 
 ## Michael Gomez Selvaraj
 
