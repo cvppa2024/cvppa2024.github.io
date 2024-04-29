@@ -32,7 +32,7 @@ Accepted full papers will be included in the ECCV Workshop Proceedings. Accepted
 |Submission due (full paper or extended abstract) | 12 July 2024 |
 |Notification of acceptance | 12 August 2024 | 
 |Camera-ready (papers and abstracts): | 19 August 2024 | 
-|Workshop date: | 30-31 September 2024* | 
+|Workshop date: | 29-30 September 2024* | 
 
 ### Challenges
 
@@ -42,7 +42,7 @@ We are running two challenges this year with the following schedule.
 |Submission deadline | 30 August 2024 |
 |Short technical report | 20 September 2024 |
 |Notification of winners | 23 September 2024 | 
-|Workshop date: | 30-31 September 2024* | 
+|Workshop date: | 29-30 September 2024* | 
 
 \* The workshop date and time are not been formalised yet.
 
