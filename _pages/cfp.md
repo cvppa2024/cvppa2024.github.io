@@ -39,6 +39,7 @@ Accepted full papers will be included in the ECCV Workshop Proceedings. Accepted
 We are running two challenges this year with the following schedule.
 
 |Dates       |       |      
+|Competitions start | 3 June 2024 |
 |Submission deadline | 30 August 2024 |
 |Short technical report | 20 September 2024 |
 |Notification of winners | 23 September 2024 | 
