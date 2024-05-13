@@ -2,6 +2,8 @@
 main:
   - title: "Organisers"
     url: /organisers/
+  - title: "Programme"
+    url: /programme/
   - title: "Speakers"
     url: /speakers/
   - title: "Call for Papers"
@@ -19,6 +21,8 @@ sidebar:
         url: /organisers/#workshop-organisers
       - title: "Challenge Organisers"
         url: /organisers/#challenge-organisers
+  - title: "Programme"
+    url: /programme/
   - title: "Speakers"
     url: /speakers/
     children:
