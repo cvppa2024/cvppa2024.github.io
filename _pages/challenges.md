@@ -11,7 +11,7 @@ This year, we are running the following challenges:
 - [Multi-object Tracking of Sweet Peppers Challenge](#multi-object-tracking-of-sweet-peppers-challenge)
 
 
-During the workshop, we will announce the winners and plan to award a certificate for winning entries that provide a short description of their technical approach by submitting a [short technical report](http://localhost:4000/cfp/#challenge-technical-report).
+During the workshop, we will announce the winners and plan to award a certificate for winning entries that provide a short description of their technical approach by submitting a [short technical report](/cfp#challenge-technical-report).
 
 [Feng Chen](mailto:feng.chen@ed.ac.uk) is the challenges lead. Please contact with questions and/or concerns. Please also contact the competition organisers with specific questions regarding the competition.
 
@@ -24,9 +24,9 @@ During the workshop, we will announce the winners and plan to award a certificat
 
 In this challenge, you are tasked to provide a complete 3D mesh given a partial RGB-D observation of sweet peppers. You are provided with RGB-D frames with corresponding instance masks and poses where sweet peppers are only partially visible. We ask the participants to predict a 3D mesh representing the complete fruit. Obtaining such information is a fundamental building block for agricultural autonomous systems across different downstream tasks, such as harvesting and yield estimation.
 
-More details about this challenge can be found in our technical report <link>
+More details about this challenge can be found in our technical report (coming soon) and on our dataset website at [https://www.ipb.uni-bonn.de/data/shape_completion](https://www.ipb.uni-bonn.de/data/shape_completion).
 
-For participating in this challenge we setup a CodaLab competition here <link>
+For participating in this challenge, we setup a CodaLab competition: [https://codalab.lisn.upsaclay.fr/competitions/18987](https://codalab.lisn.upsaclay.fr/competitions/18987)
 
 Please contact [Federico Magistri](mailto:federico.magistri@uni-bonn.de) if you have questions about this competition and concerns regarding the submission on CodaLab.
 

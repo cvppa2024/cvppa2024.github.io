@@ -73,7 +73,11 @@ The length should not exceed 2 pages excluding the references. Extended abstract
 
 ### Challenge Technical Report
 
-Challenges reports will be aggregated for a collective journal publication. This journal article will be collaboratively authored by participants and workshop organisers. Submission guidelines for these reports will differ from those for full papers and extended abstracts (further details forthcoming). While challenge reports will not undergo peer review, we strongly encourage participants to adhere to the ECCV 2024 template and approach their writing as they would for a scientific paper. This will facilitate the writing of all contributions for the submission as a journal article. Details regarding the target journal will be provided at a later time.
+[comment]: Challenges reports will be aggregated for a collective journal publication. This journal article will be collaboratively authored by participants and workshop organisers. Submission guidelines for these reports will differ from those for full papers and extended abstracts (further details forthcoming). While challenge reports will not undergo peer review, we strongly encourage participants to adhere to the ECCV 2024 template and approach their writing as they would for a scientific paper. This will facilitate the writing of all contributions for the submission as a journal article. Details regarding the target journal will be provided at a later time.
+
+Challenge reports will provide a short summary of the technical approach to solve the challenge; the formatting of technical reports will adhere to the ECCV 2024 template and approach their writing as they would for a scientific paper. 
+
+The technical reports (up to 6 pages) are non-peer reviewed descriptions of the technical approach of the submissions. All contents are the intellectual property of the respective authors and should be acknowledged accordingly.
 
 ## Submission Policies
 
