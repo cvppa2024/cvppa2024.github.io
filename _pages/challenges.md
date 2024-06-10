@@ -37,4 +37,9 @@ Please contact [Federico Magistri](mailto:federico.magistri@uni-bonn.de) if you 
 | [Chris McCool](http://agrobotics.uni-bonn.de/chris-mccool/index.html) | Institute of Agricultural Engineering, University of Bonn, Germany | [Email](mailto:cmccool@uni-bonn.de) |
 | [Esra Güçlü](http://agrobotics.uni-bonn.de/esra-guclu/index.html) | Institute of Agricultural Engineering, University of Bonn, Germany | [Email](mailto:egueclue@uni-bonn.de) |
 
-In this challenge, you need to make use of weakly labelled data to perform detection and tracking of small objects in a cluttered agricultural environment. With this information we can obtain the current state of the field (glasshouse) as well as the amount of harvestable crop, this is because it also includes a coarse estimate of the ripeness of the crop.  The weak labels that we provide are instance-based semantic segmentation masks along with an estimated unique ID for each instance in the short video sequences. Please contact [Esra Güçlü](mailto:egueclue@uni-bonn.de) if you have specific questions about this competition.
+In this challenge, you need to make use of weakly labelled data to perform detection and tracking of small objects in a cluttered agricultural environment. With this information we can obtain the current state of the field (glasshouse) as well as the amount of harvestable crop, this is because it also includes a coarse estimate of the ripeness of the crop.  The weak labels that we provide are instance-based semantic segmentation masks along with an estimated unique ID for each instance in the short video sequences. 
+
+For more information and for participating in the Codalab competition, please refer to [https://codalab.lisn.upsaclay.fr/competitions/19278](https://codalab.lisn.upsaclay.fr/competitions/19278). For more information about the data, see: [https://codalab.lisn.upsaclay.fr/competitions/19278#participate-get_data](https://codalab.lisn.upsaclay.fr/competitions/19278#participate-get_data).
+
+
+Please contact [Esra Güçlü](mailto:egueclue@uni-bonn.de) if you have specific questions about this competition.
