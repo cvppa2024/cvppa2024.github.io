@@ -14,7 +14,7 @@ This year, we are running the following challenges:
 For participating in the competitions, you have to provide your predictions via the respective CodaLab competitions (details below).
 
 After conclusion of the competitions (as indicated on CodaLab), Challenge Organisers will notify the CodaLab participants with at least a single submission. 
-Every participant can provide a short technical report (please follow the instructrion in the [Call for Paper][/cfp/#challenge-technical-report] page) of their technical solution, which will be published on the workshop website.
+Every participant can provide a short technical report (please follow the instructrions in the [Call for Paper](/cfp/#challenge-technical-report) page) of their technical solution, which will be published on the workshop website.
 
 The top-3 ranked participants who provide a technical report will get a certificate and can present their approach at the workshop (if the participants attend ECCV). 
 Details of the submission process will be provided via email after conclusion of the competitions.
