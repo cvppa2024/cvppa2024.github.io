@@ -11,7 +11,15 @@ This year, we are running the following challenges:
 - [Multi-object Tracking of Sweet Peppers Challenge](#multi-object-tracking-of-sweet-peppers-challenge)
 
 
-During the workshop, we will announce the winners and plan to award a certificate for winning entries that provide a short description of their technical approach by submitting a [short technical report](/cfp#challenge-technical-report).
+For participating in the competitions, you have to provide your predictions via the respective CodaLab competitions (details below).
+
+After conclusion of the competitions (as indicated on CodaLab), Challenge Organisers will notify the CodaLab participants with at least a single submission. 
+Every participant can provide a short technical report (please follow the instructrion in the [Call for Paper][/cfp/#challenge-technical-report] page) of their technical solution, which will be published on the workshop website.
+
+The top-3 ranked participants who provide a technical report will get a certificate and can present their approach at the workshop (if the participants attend ECCV). 
+Details of the submission process will be provided via email after conclusion of the competitions.
+
+During the workshop, we will announce the winners and plan to award a certificate for winning entries that have provided a short description of their technical approach.
 
 [Feng Chen](mailto:feng.chen@ed.ac.uk) is the challenges lead. Please contact with questions and/or concerns. Please also contact the competition organisers with specific questions regarding the competition.
 
