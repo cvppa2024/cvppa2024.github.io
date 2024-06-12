@@ -20,7 +20,7 @@ Specific topics of interest include, but are not limited to, the following:
 * image data sets defining plant phenotyping or agricultural tasks, complete with annotations if appropriate, accompanied with benchmark methods if possible, and suitable evaluation methods; and
 * challenge contributions - [click here](/challenges/) for more information regarding the challenges
 
-Submission will be done on CMT - more information will follow.
+Submission will be done on CMT. [Click here to start a submission](https://cmt3.research.microsoft.com/CVPPA2024).
 
 ## Important Dates
 
@@ -47,9 +47,9 @@ We are running two challenges this year with the following schedule.
 
 ## Author Information
 
-Authors should comply with ECCV 2024 [submission guidelines](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies) to format their full paper, extended abstract, or challenge technical report. A specific CMT link for the CVPPA workshop will be provided to the authors to submit their contributions. The peer-review process is double blind, as usual, in order to ensure unbiased reviews and highest paper quality.
+Authors should comply with ECCV 2024 [submission guidelines](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies) to format their full paper, extended abstract, or challenge technical report. Submission are handled via [CMT](https://cmt3.research.microsoft.com/CVPPA2024). The peer-review process is double blind, as usual, in order to ensure unbiased reviews and highest paper quality.
 
-Paper registration is performed by registering as a user with CMT and entering a paper title and abstract. This will result in the allocation of a `paper ID`, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission. Some common questions about submission are addressed in the [ECCV FAQs](https://eccv.ecva.net/Conferences/2024/FAQs).
+Paper registration is performed by registering as a user with [CMT](https://cmt3.research.microsoft.com/CVPPA2024) and entering a paper title and abstract. This will result in the allocation of a `paper ID`, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission. Some common questions about submission are addressed in the [ECCV FAQs](https://eccv.ecva.net/Conferences/2024/FAQs).
 
 ## Submission Guidelines
 
