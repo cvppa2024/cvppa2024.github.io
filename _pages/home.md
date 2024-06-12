@@ -11,7 +11,7 @@ The workshop will be held at [ECCV 2024](https://eccv.ecva.net/Conferences/2024)
 
 The workshop will have paper tracks and challenges.
 
-More information will follow soon!
+For more information on how to participate in the workshop, please refer to the [Call for Paper](/cfp) and [Challenges](/challenges) pages.
 
 
 ## Previous Editions
