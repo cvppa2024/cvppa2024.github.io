@@ -9,7 +9,7 @@ This workshop will showcase the challenges raised by working on computer vision 
 
 The workshop will be held at [ECCV 2024](https://eccv.ecva.net/Conferences/2024), the European Conference on Computer Vision, which runs from 29th September till 4th October 2024.
 
-<img src="/static/core/img/eccv-navbar-logo.svg" alt="ECCV Logo" height="150px;">
+<img src="https://eccv2024.ecva.net/static/core/img/eccv-navbar-logo.svg" alt="ECCV Logo" height="150px;">
 
 The workshop will have paper tracks and challenges. For more information on how to participate in the workshop, please refer to the [Call for Paper](/cfp) and [Challenges](/challenges) pages.
 
