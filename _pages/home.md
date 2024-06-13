@@ -13,7 +13,7 @@ The workshop will have paper tracks and challenges.
 
 For more information on how to participate in the workshop, please refer to the [Call for Paper](/cfp) and [Challenges](/challenges) pages.
 
-<a href="https://cmt3.research.microsoft.com/CVPPA2024" target="_blank" class="btn btn--success btn--large">Paper Submission on CMT</a>
+
 
 ## Previous Editions
 
