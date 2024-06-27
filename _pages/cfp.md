@@ -30,6 +30,7 @@ Accepted full papers will be included in the ECCV Workshop Proceedings. Accepted
 
 |Dates       |       |      
 |Submission due (full paper or extended abstract) | 12 July 2024 |
+|Deadline for submitting reviews (Reviewers only) | 5 August 2024 | 
 |Notification of acceptance | 12 August 2024 | 
 |Camera-ready (papers and abstracts): | 19 August 2024 | 
 |Workshop date: | 29 September 2024 | 
