@@ -29,8 +29,8 @@ Submission will be done on CMT. [Click here to start a submission](https://cmt3.
 Accepted full papers will be included in the ECCV Workshop Proceedings. Accepted extended abstracts will published on this website.
 
 |Dates       |       |      
-|Submission due (full paper or extended abstract) | 12 July 2024 |
-|Deadline for submitting reviews (Reviewers only) | 5 August 2024 | 
+|Submission due (full paper or extended abstract) | [12 July 2024 23:59 AOE](https://www.timeanddate.com/worldclock/converter.html?iso=20240713T115900&p1=tz_aoe&p2=137&p3=155&p4=165&p5=136&p6=215&p7=26&p8=176&p9=33&p10=248&p11=240) |
+|Deadline for submitting reviews (Reviewers only) | 5 August 2024 23:59 AOE | 
 |Notification of acceptance | 12 August 2024 | 
 |Camera-ready (papers and abstracts): | 19 August 2024 | 
 |Workshop date: | 29 September 2024 | 
