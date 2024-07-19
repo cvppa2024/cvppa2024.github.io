@@ -32,7 +32,7 @@ During the workshop, we will announce the winners and plan to award a certificat
 
 In this challenge, you are tasked to provide a complete 3D mesh given a partial RGB-D observation of sweet peppers. You are provided with RGB-D frames with corresponding instance masks and poses where sweet peppers are only partially visible. We ask the participants to predict a 3D mesh representing the complete fruit. Obtaining such information is a fundamental building block for agricultural autonomous systems across different downstream tasks, such as harvesting and yield estimation.
 
-More details about this challenge can be found in our technical report (coming soon) and on our dataset website at [https://www.ipb.uni-bonn.de/data/shape_completion](https://www.ipb.uni-bonn.de/data/shape_completion).
+More details about this challenge can be found in our <a href="https://arxiv.org/abs/2407.13304">technical report</a> (<a href="https://arxiv.org/pdf/2407.13304">PDF</pdf>)  and on our dataset website at [https://www.ipb.uni-bonn.de/data/shape_completion](https://www.ipb.uni-bonn.de/data/shape_completion).
 
 For participating in this challenge, we setup a CodaLab competition: [https://codalab.lisn.upsaclay.fr/competitions/18987](https://codalab.lisn.upsaclay.fr/competitions/18987)
 
