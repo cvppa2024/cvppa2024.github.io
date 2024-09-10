@@ -13,7 +13,7 @@ sidebar:
 ---
 
 **Wild Berry image dataset collected in Finnish forests and peatlands using drones**\
-Luigi Riz (Fondazione Bruno Kessler)*; Sergio Povoli (Fondazione Bruno Kessler); Andrea Caraffa (Fondazione Bruno Kessler); Davide Boscaini (Fondazione Bruno Kessler); Mohamed Lamine Mekhalfi (Fondazione Bruno Kessler); Paul Chippendale (Fondazione Bruno Kessler); Marjut Turtiainen (Arctic Flavours Association); Birgitta Partanen ( Arctic Flavours Association); Laura Smith Ballester (Universitat PolitÃ¨cnica de ValÃ¨ncia); Francisco Blanes Noguera (Universitat PolitÃ¨cnica de ValÃ¨ncia); Alessio Franchi (GemmoAI); Elisa Castelli (GemmoAI); Giacomo Piccinini (GemmoAI); Luca Marchesotti (GemmoAI); Micael Santos Couceiro (Ingeniarius); Fabio Poiesi (Fondazione Bruno Kessler), 2024.
+Luigi Riz (Fondazione Bruno Kessler)*; Sergio Povoli (Fondazione Bruno Kessler); Andrea Caraffa (Fondazione Bruno Kessler); Davide Boscaini (Fondazione Bruno Kessler); Mohamed Lamine Mekhalfi (Fondazione Bruno Kessler); Paul Chippendale (Fondazione Bruno Kessler); Marjut Turtiainen (Arctic Flavours Association); Birgitta Partanen (Arctic Flavours Association); Laura Smith Ballester (Universitat Politecnica de Valencia); Francisco Blanes Noguera (Universitat Politecnica de Valencia); Alessio Franchi (GemmoAI); Elisa Castelli (GemmoAI); Giacomo Piccinini (GemmoAI); Luca Marchesotti (GemmoAI); Micael Santos Couceiro (Ingeniarius); Fabio Poiesi (Fondazione Bruno Kessler), 2024.
 
 ---
 
@@ -161,7 +161,7 @@ Federico Antonio Pio A Canistro (University of Bari Aldo Moro  ); Giovanna Caste
 ---
 
 **CISSS-Es: Curriculum-Including Semi-Supervised Sub-Ensembles for Plant Phenotyping**\
-Nicolas Mandel (Universität zu Lübeck)*; Sebastian Otte (University of Lübeck); Pirunthan Keerthinathan (Queensland University of Technology); Lihong  Zheng (Charles Sturt University Australia); Felipe Gonzalez (Queensland University of Technology); Jane Kelly (Charles Sturt University)
+Nicolas Mandel (Universität zu Lübeck)*; Sebastian Otte (University of Lübeck); Pirunthan Keerthinathan (Queensland University of Technology); Lihong  Zheng (Charles Sturt University Australia); Felipe Gonzalez (Queensland University of Technology); Jane Kelly (Charles Sturt University), 2024.
 
 ---
 
