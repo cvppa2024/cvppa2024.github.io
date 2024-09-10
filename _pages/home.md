@@ -13,9 +13,7 @@ The workshop will be held at [ECCV 2024](https://eccv.ecva.net/Conferences/2024)
 
 The workshop will be in Milan (Italy) at the [MiCo](https://eccv2024.ecva.net/Conferences/2024/Milano). More information about the room and the poster session location will be announced later.
 
-The workshop will have paper tracks and challenges. For more information on how to participate in the workshop, please refer to the [Call for Paper](/cfp) and [Challenges](/challenges) pages.
-
-<a href="https://cmt3.research.microsoft.com/CVPPA2024" target="_blank" class="btn btn--success btn--large">Paper Submission on CMT</a>
+<a href=/proceedings" target="_blank" class="btn btn--success btn--large">Accepted Papers & Extended Abstracts</a>
 
 ## Previous Editions
 
