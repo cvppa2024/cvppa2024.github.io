@@ -2,7 +2,8 @@
 layout: single
 permalink: /proceedings/
 title: "Proceedings"
-hidden: true
+sidebar:
+    nav: "sidebar"
 ---
 
 <link rel="stylesheet" href="/assets/css/main.css">
