@@ -34,6 +34,11 @@ sidebar:
         url: /speakers/#michael-gomez-selvaraj
   - title: "Proceedings"
     url: /proceedings/
+    children:
+      - title: Full papers
+        url: /proceedings/#full-papers
+      - title: Extended Abstracts
+        url: /proceedings/#extended-abstracts
   - title: "Call for Papers"
     url: /cfp/
     children:
