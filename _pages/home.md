@@ -13,7 +13,7 @@ The workshop will be held at [ECCV 2024](https://eccv.ecva.net/Conferences/2024)
 
 The workshop will be in Milan (Italy) at the [MiCo](https://eccv2024.ecva.net/Conferences/2024/Milano). More information about the room and the poster session location will be announced later.
 
-<a href=/proceedings" target="_blank" class="btn btn--success btn--large">Accepted Papers & Extended Abstracts</a>
+<a href="/proceedings" target="_blank" class="btn btn--success btn--large">Accepted Papers & Extended Abstracts</a>
 
 ## Previous Editions
 
