@@ -6,8 +6,8 @@ main:
     url: /programme/
   - title: "Speakers"
     url: /speakers/
-  - title: "Call for Papers"
-    url: /cfp/
+  - title: "Proceedings"
+    url: /proceedings/
   - title: "Challenges"
     url: /challenges/
 
@@ -32,6 +32,8 @@ sidebar:
         url: /speakers/#masha-popovi%C4%87
       - title: Michael Gomez Selvaraj
         url: /speakers/#michael-gomez-selvaraj
+  - title: "Proceedings"
+    url: /proceedings/
   - title: "Call for Papers"
     url: /cfp/
     children:
