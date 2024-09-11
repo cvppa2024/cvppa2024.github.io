@@ -78,7 +78,7 @@ Christoph Krause (German Research Center for Artificial Intelligence)*; Mark Nie
 ---
 
 **AgriBench: A Hierarchical Agriculture Benchmark for Multimodal Large Language Models**\
-Yutong Zhou (Leibniz Centre for Agricultural Landscape Research (ZALF))*, Masahiro Ryo (Leibniz Centre for Agricultural Landscape Research (ZALF) & Brandenburg University of Technology Cottbus–Senftenberg), 2024.
+Yutong Zhou (Leibniz Centre for Agricultural Landscape Research (ZALF))*, Masahiro Roy (Leibniz Centre for Agricultural Landscape Research (ZALF) & Brandenburg University of Technology Cottbus–Senftenberg), 2024.
 
 ---
 
