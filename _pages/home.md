@@ -8,7 +8,8 @@ author_profile: true
 This workshop will showcase the challenges raised by working on computer vision for plant phenotyping and agriculture. Workshop goals include demonstrating the state-of-the-art, identifying key unsolved problems, and introducing computer scientists with an interest in plant phenotyping to the field. Effective plant phenotyping is urgently needed to support the sustainability of our planet and its inhabitants: having strong community structures and computer vision scientists enter this field is more crucial now than ever.
 
 The workshop will be held at [ECCV 2024](https://eccv.ecva.net/Conferences/2024), the European Conference on Computer Vision, on the 29th September.
-We will start at **09:00** and will be located in the **Panorama Lounge**
+We will start at **09:00** and will be located in the **Panorama Lounge**.
+
 We recommend to register to the conference timely to avoid delays.
 
 <img src="https://eccv2024.ecva.net/static/core/img/eccv-navbar-logo.svg" alt="ECCV Logo" height="150px;">
