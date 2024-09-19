@@ -12,7 +12,7 @@ Please come to the **Panorama Lounge** at **09:00**.
 |From|To||
 |--|--|--|
 |09:00|09:05| Welcoming message and short introduction|
-|09:05|09:30| Marija Popović |
+|09:05|09:30| Marija Popović: Planning and Learning with Limited Supervision in UAV-based Field Monitoring |
 |09:30|10:30| Spotlight Talks of Accepted Papers Session |
 |10:30|11:30| Coffee break & Poster Session |
 |11:30|11:55| Michael Gomez Selvaraj |
