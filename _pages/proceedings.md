@@ -136,7 +136,7 @@ Pietro Gatti (DeepPlants); Simone Rossetti (DeepPlants); Benjamin Franchetti (Ag
 ---
 
 **Generating High-Fidelity 3D Models of Individual Plants from Handheld Video Recordings**\
-Constanza Andrea Andrea Molina Catricheo (University of Münster)*; Dominik Drees (University of Münster); Pierre Ouvrard (Swedish University of Agricultural Sciences); Devis Tuia (EPFL); Fabio Remondino (Fondazione Bruno Kessler); Adrien Sicard (Swedish University of Agricultural Sciences); Benjamin Risse (University of Münster) , 2024.
+Constanza Andrea Molina Catricheo (University of Münster)*; Dominik Drees (University of Münster); Pierre Ouvrard (Swedish University of Agricultural Sciences); Devis Tuia (EPFL); Fabio Remondino (Fondazione Bruno Kessler); Adrien Sicard (Swedish University of Agricultural Sciences); Benjamin Risse (University of Münster) , 2024.
 
 ---
 
