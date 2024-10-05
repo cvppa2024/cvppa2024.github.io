@@ -126,7 +126,7 @@ Madeleine Darbyshire (University of Lincoln)*; Simon Parsons (University of Linc
 ---
 
 **WoodYOLO: A Novel Object Detector for Wood Species Detection in Microscopic Images**\
-Lars Nieradzik (Fraunhofer ITWM)*; Henrike Stephani (Fraunhofer ITWM); Jördis Sieburg-Rockel (Thünen Institut für Holzforschung); Stephanie Wrage (Thünen Institute of Wood Research); Stephanie Helmling (Thünen institute); Andrea Olbrich (Thünen Institute of Wood Research); Janis Keuper (Offenburg University), 2024.
+Lars Nieradzik (Fraunhofer ITWM)*; Henrike Stephani (Fraunhofer ITWM); Jördis Sieburg-Rockel (Thünen Institut für Holzforschung); Stephanie Wrage (Thünen Institute of Wood Research); Stephanie Helmling (Thünen institute); Andrea Olbrich (Thünen Institute of Wood Research); Janis Keuper (Offenburg University), 2024. [[PDF]](/assets/pdf/6.pdf)
 
 ---
 
