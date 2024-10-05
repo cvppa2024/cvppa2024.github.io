@@ -125,28 +125,18 @@ Madeleine Darbyshire (University of Lincoln)*; Simon Parsons (University of Linc
 ## Extended Abstracts
 ---
 
-**WoodYOLO: A Novel Object Detector for Wood Species Detection in Microscopic Images**\
-Lars Nieradzik (Fraunhofer ITWM)*; Henrike Stephani (Fraunhofer ITWM); Jördis Sieburg-Rockel (Thünen Institut für Holzforschung); Stephanie Wrage (Thünen Institute of Wood Research); Stephanie Helmling (Thünen institute); Andrea Olbrich (Thünen Institute of Wood Research); Janis Keuper (Offenburg University), 2024. [[PDF]](/assets/pdf/6.pdf)
-
----
-
-**Robust In-Field Unsupervised  Leaf Instance Segmentation.**\
-Pietro Gatti (DeepPlants); Simone Rossetti (DeepPlants); Benjamin Franchetti (Agricola Moderna); Etienne David (Agricola Moderna)*; Fiora Pirri (University of Rome, Sapienza), 2024. [[PDF]](/assets/pdf/10.pdf)
-
----
-
 **Generating High-Fidelity 3D Models of Individual Plants from Handheld Video Recordings**\
-Constanza Andrea Molina Catricheo (University of Münster)*; Dominik Drees (University of Münster); Pierre Ouvrard (Swedish University of Agricultural Sciences); Devis Tuia (EPFL); Fabio Remondino (Fondazione Bruno Kessler); Adrien Sicard (Swedish University of Agricultural Sciences); Benjamin Risse (University of Münster) , 2024.
+Constanza Andrea Molina Catricheo (University of Münster)*; Dominik Drees (University of Münster); Pierre Ouvrard (Swedish University of Agricultural Sciences); Devis Tuia (EPFL); Fabio Remondino (Fondazione Bruno Kessler); Adrien Sicard (Swedish University of Agricultural Sciences); Benjamin Risse (University of Münster) , 2024. [[PDF]](/assets/pdf/16.pdf)
 
 ---
 
 **PhenoGPT: Towards Language Interaction with Vision Models for Plant Phenotyping**\
-Feng Chen (University of Edinburgh)*; Sotirios Tsaftaris (The University of Edinburgh); Mario Valerio Giuffrida (University of Nottingham), 2024.
+Feng Chen (University of Edinburgh)*; Sotirios Tsaftaris (The University of Edinburgh); Mario Valerio Giuffrida (University of Nottingham), 2024. [[PDF]](/assets/pdf/17.pdf)
 
 ---
 
 **Prompt Engineering on a Foundation Model to Segment Symptomatic Arabidopsis Thaliana**\
-Félicia Maviane-Macia (INRAe); Nemo Peeters (INRAe); Sabine Wiedemann (INRAe); David ROUSSEAU (Université d'Angers)*, 2024.
+Félicia Maviane-Macia (INRAe); Nemo Peeters (INRAe); Sabine Wiedemann (INRAe); David ROUSSEAU (Université d'Angers)*, 2024. [[PDF]](/assets/pdf/18.pdf)
 
 ---
 
