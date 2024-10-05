@@ -131,7 +131,7 @@ Lars Nieradzik (Fraunhofer ITWM)*; Henrike Stephani (Fraunhofer ITWM); Jördis S
 ---
 
 **Robust In-Field Unsupervised  Leaf Instance Segmentation.**\
-Pietro Gatti (DeepPlants); Simone Rossetti (DeepPlants); Benjamin Franchetti (Agricola Moderna); Etienne David (Agricola Moderna)*; fiora pirri (University of Rome, Sapienza), 2024.
+Pietro Gatti (DeepPlants); Simone Rossetti (DeepPlants); Benjamin Franchetti (Agricola Moderna); Etienne David (Agricola Moderna)*; Fiora Pirri (University of Rome, Sapienza), 2024. [[PDF]](/assets/pdf/10.pdf)
 
 ---
 
