@@ -141,17 +141,13 @@ Félicia Maviane-Macia (INRAe); Nemo Peeters (INRAe); Sabine Wiedemann (INRAe); 
 ---
 
 **Leveraging on Foundation Deep Neural Models for Individual Apple Tree Segmentation in Dense Orchards via Prompt Engineering in RGB Images**\
-Herearii Metuarea (Université d'Angers); Frederic Didelot (INRAe); Kevin  Guerif (INRAe); François Laurens (INRAe); Ludovic Bervas (INRAe); Pejman Rasti (University of Angers); Helin Dutagaci (Eskişehir Osmangazi Universiy); David ROUSSEAU (Université d'Angers)*, 2024.
+Herearii Metuarea (Université d'Angers); Frederic Didelot (INRAe); Kevin  Guerif (INRAe); François Laurens (INRAe); Ludovic Bervas (INRAe); Pejman Rasti (University of Angers); Helin Dutagaci (Eskişehir Osmangazi Universiy); David ROUSSEAU (Université d'Angers)*, 2024. [[PDF]](/assets/pdf/19.pdf)
 
----
-
-**A Weakly-Supervised Learning Approach for RGB Crop Detection Using UAV Imagery**\
-Federico Antonio Pio A Canistro (University of Bari Aldo Moro  ); Giovanna Castellano (University of Bari Aldo Moro, Italy); Pasquale De Marinis (University of Bari Aldo Moro)*; Gennaro Vessio (University of Bari Aldo Moro), 2024.
 
 ---
 
 **CISSS-Es: Curriculum-Including Semi-Supervised Sub-Ensembles for Plant Phenotyping**\
-Nicolas Mandel (Universität zu Lübeck)*; Sebastian Otte (University of Lübeck); Pirunthan Keerthinathan (Queensland University of Technology); Lihong  Zheng (Charles Sturt University Australia); Felipe Gonzalez (Queensland University of Technology); Jane Kelly (Charles Sturt University), 2024.
+Nicolas Mandel (Universität zu Lübeck)*; Sebastian Otte (University of Lübeck); Pirunthan Keerthinathan (Queensland University of Technology); Lihong  Zheng (Charles Sturt University Australia); Felipe Gonzalez (Queensland University of Technology); Jane Kelly (Charles Sturt University), 2024. [[PDF]](/assets/pdf/26.pdf)
 
 ---
 
