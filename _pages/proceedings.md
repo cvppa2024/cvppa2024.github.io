@@ -10,6 +10,7 @@ sidebar:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
 
 ## Full Papers
+<a href="https://link.springer.com/book/10.1007/978-3-031-91835-3" target="_blank" class="btn btn--success btn--large">Full papers are published on Springer LNCS</a>
 ---
 
 **Wild Berry image dataset collected in Finnish forests and peatlands using drones**\
